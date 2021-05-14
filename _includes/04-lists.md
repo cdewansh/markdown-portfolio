@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* pizza 🍕
+* cake 🍰
+* ice cream 🍨
+* meat 🥩
+  * chicken 🐔
+  * fish 🐟
